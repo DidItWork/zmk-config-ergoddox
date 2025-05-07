@@ -62,7 +62,7 @@
         compatible = "zmk,physical-layout";
         display-name = "Default Layout";
         kscan = <&kscan0>;
-        transform = <&defaualt_transform>;
+        transform = <&default_transform>;
     };
 
     chosen {
