@@ -1,0 +1,11 @@
+file_format: "1"
+id: ergoddox
+name: ErgoDDOX
+type: shield
+url: https://github.com/DidItWork/ergoddox/
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - ergoddox_left
+  - ergoddox_right

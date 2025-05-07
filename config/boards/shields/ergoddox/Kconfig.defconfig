@@ -1,0 +1,16 @@
+if SHIELD_ERGODDOX_LEFT
+
+config ZMK_ERGODDOX
+    default "ErgoDDOX"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_ERGODDOX_LEFT || SHIELD_ERGODDOX_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
