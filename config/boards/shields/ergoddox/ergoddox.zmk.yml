@@ -3,7 +3,8 @@ id: ergoddox
 name: ErgoDDOX
 type: shield
 url: https://github.com/DidItWork/ergoddox/
-requires: [pro_micro]
+requires:
+  - pro_micro
 features:
   - keys
 siblings:
