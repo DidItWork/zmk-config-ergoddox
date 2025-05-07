@@ -1,4 +1,4 @@
-names: zmk-keyboard-ergoddox
+name: zmk-keyboard-ergoddox
 build:
   settings:
     board_root: .
