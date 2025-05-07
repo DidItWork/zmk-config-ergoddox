@@ -14,6 +14,6 @@
                 &kp LCTRL &kp LGUI &kp LALT &none &none &kp SPACE &kp ENTER &none &none &kp ENTER &kp SPACE &kp RALT &kp RCTRL &kp RIGHT &kp DOWN &kp LEFT
                 &none &none
             >;
-        }
+        };
     };
 };
