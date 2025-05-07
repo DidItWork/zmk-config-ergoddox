@@ -1,6 +1,6 @@
 if SHIELD_ERGODDOX_LEFT
 
-config ZMK_ERGODDOX
+config ZMK_KEYBOARD_NAME
     default "ErgoDDOX"
 
 config ZMK_SPLIT_ROLE_CENTRAL
