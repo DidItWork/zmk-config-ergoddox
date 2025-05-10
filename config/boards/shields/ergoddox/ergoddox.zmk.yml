@@ -6,6 +6,7 @@ url: https://github.com/DidItWork/ergoddox/
 requires: [pro_micro]
 features:
   - keys
+  - underglow
 siblings:
   - ergoddox_left
   - ergoddox_right
