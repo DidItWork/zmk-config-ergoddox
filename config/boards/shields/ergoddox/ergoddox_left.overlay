@@ -1,1 +1,5 @@
 #include "ergoddox.dtsi"
+
+&left_encoder {
+    status = "okay";
+};
